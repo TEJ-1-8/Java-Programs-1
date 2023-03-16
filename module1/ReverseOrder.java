@@ -15,6 +15,6 @@ public class ReverseOrder
 	    num = num/10;
 	    System.out.print(num);
 	  }	
-	     System.out.print("\nReverse of the givne number is " + reversenum); 
+	     System.out.print("\nReverse of the given number is " + reversenum); 
 	}
 }
